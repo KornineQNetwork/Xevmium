@@ -18,5 +18,22 @@
         "php": ">=8.0"
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "keywords": [
+        "php",
+        "website-builder",
+        "framework",
+        "themes",
+        "responsive",
+        "markdown",
+        "xss-protection",
+        "component-based",
+        "lightweight",
+        "static-site",
+        "front-end",
+        "ui",
+        "templating",
+        "modern",
+        "html-generator"
+    ]
 }
