@@ -104,7 +104,7 @@ $xevmium->buildFooter('Your Company');
 
 ## 📝 License
 
-MIT License. See [LICENSE](LICENSE) for more information.
+Apache 2.0 License. See [LICENSE](LICENSE) for more information.
 
 ## 🤝 Contributing
 
