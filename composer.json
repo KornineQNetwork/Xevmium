@@ -26,9 +26,6 @@
     "suggest": {
         "ext-gd": "For image processing capabilities"
     },
-    "provide": {
-        "kornineqnetwork/xevmium-implementation": "1.0.0"
-    },
     "conflict": {
         "php": "<8.0"
     },
