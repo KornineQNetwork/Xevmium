@@ -1,0 +1,22 @@
+{
+    "name": "kornineqnetwork/xevmium",
+    "description": "A lightweight, elegant PHP framework for building modern websites with minimal setup",
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "kornineqnetwork\\Xevmium\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KornineQNetwork",
+            "homepage": "https://github.com/KornineQNetwork"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
